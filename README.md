@@ -1,10 +1,10 @@
-# Calc with *GO*
+# Calcualtor with GO
 
-Here i use variable to save numbers and do the aritmethics.
+Here I use variable to save numbers and do the aritmethic.
 
-- **How to use calc?**
+- **How to use calculator?**
 
-made sure you run `main.go` in your terminal
+make sure you run `main.go` in your terminal
 
 ```bash
 go run main.go
@@ -12,8 +12,10 @@ go run main.go
 <br>
 
 - **Example of var `a` and `b`**
-`a = 2`
-`b = 2`
+```go
+a := 2
+b := 2
+```
 <br>
 
 - **Expected Output**

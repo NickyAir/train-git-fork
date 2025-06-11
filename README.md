@@ -1,20 +1,33 @@
-# Hello World with **GO**
+# Calc with *GO*
 
-- **How to run main.go?**
+Here i use variable to save numbers and do the aritmethics.
 
-To run ``main.go`` and get output:
-````go
-Hello World!
-````
-<br>
+- **How to use calc?**
 
-You'll need to type this script on your terminal
+made sure you run `main.go` in your terminal
+
 ```bash
 go run main.go
-````
+```
 <br>
 
-And you'll get expected output which is:
-````bash
-Hello World!
-````
+- **Example of var `a` and `b`**
+`a = 2`
+`b = 2`
+<br>
+
+- **Expected Output**
+```go
+Add: 4
+Sub: 0
+Mul: 4
+Div: 1
+```
+<br>
+
+- **To-Do List :**
+- [x] Membuat kalkulator sederhana dengan golang
+- [x] Membuat fungsi tambah
+- [x] Membuat fungsi kurang
+- [x] Membuat fungsi perkalian
+- [x] Membuat fungsi pembagian

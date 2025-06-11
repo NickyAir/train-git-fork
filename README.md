@@ -1,8 +1,8 @@
-# Calc with *GO*
+# Calcualtor with GO
 
 Here I use variable to save numbers and do the aritmethic.
 
-- **How to use calc?**
+- **How to use calculator?**
 
 make sure you run `main.go` in your terminal
 
